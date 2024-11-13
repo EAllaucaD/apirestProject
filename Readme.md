@@ -13,18 +13,17 @@ This project build with:
 
 ## Getting Started 
 
-### Code visualization on github.
+### Code visualization with github.
 * Clone the repository
 
     ```
     git clone https://github.com/EAllaucaD/apirestProject.git
     ```
 
-
-##Pre-requisites
-
-* You need to have installed VSC on your laptop and node.
-
+You can open the index.js and run this project with this command on your CMD:
+ ```
+    node index.js
+```
 
 
 ## How to run in Docker
